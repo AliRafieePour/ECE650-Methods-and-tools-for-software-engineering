@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/urafiee/a3/rgen.cpp
+iostream
+-
+vector
+-
+set
+-
+string
+-
+thread
+-
+time.h
+-
+unistd.h
+-
+fstream
+-
+algorithm
+-
+

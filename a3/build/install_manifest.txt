@@ -1,0 +1,4 @@
+/home/urafiee/a3/build/run/bin/ece650-a1.py
+/home/urafiee/a3/build/run/bin/ece650-a2
+/home/urafiee/a3/build/run/bin/ece650-a3
+/home/urafiee/a3/build/run/bin/rgen
